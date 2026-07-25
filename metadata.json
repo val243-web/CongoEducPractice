@@ -1,0 +1,6 @@
+{
+  "name": "CongoPraticEduc",
+  "description": "Plateforme d'apprentissage pratique et métiers par CongoPraticEduc & IA Gemma 4 : feuilles de route bento, galerie de compétences, exercices pratiques, éditeur IDE dev, quiz dynamiques et générateur d'illustrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
